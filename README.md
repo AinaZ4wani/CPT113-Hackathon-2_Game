@@ -1,7 +1,6 @@
 # CPT113-Hackathon-2_Game
 A repository for CPT113 hackathon 2 which is to create a text-based game of any genre.
-# Game
-Chain It Long!
+# Chain It Long!
 ## Game Description
 Chain It Long! is a multiplayer game where it starts off with one player that needs to come up with a word from a random letter (existing in the English dictionary). 
 
