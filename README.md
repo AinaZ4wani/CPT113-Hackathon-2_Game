@@ -9,7 +9,7 @@ Then, the next player will have to create another word from the last letter of t
 There will be 5 rounds in the game. At the end of the game, the amount of words that the player entered and the length of the words will be taken into account to determine the winner. 
 
 If you are able to come up with more words and the longer they are, then YOU are the WINNER!! So, put on your thinking caps, turn your brain gears on, and create words!
-jsxghdchsdjcbjhdcbdhfvgdfv
+
 ## Game Features
 ## Game Rules
 ## Object-Oriented Concepts
