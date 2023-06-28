@@ -53,6 +53,15 @@ In 'Chain It Long', Queue is being used as our core concept.
 1. No English words dictionary for validation --> unable to verify if the word input by the player is valid.
    
 ## Game Screenshots
+![WhatsApp Image 2023-06-28 at 11 41 20 PM](https://github.com/AinaZ4wani/CPT113-Hackathon-2_Game/assets/119420625/5e200f44-b6b7-45ec-86fb-c2e5028d0173)
+
+![WhatsApp Image 2023-06-28 at 11 46 07 PM](https://github.com/AinaZ4wani/CPT113-Hackathon-2_Game/assets/119420625/b9f0f746-d3dd-4096-b8d4-a5b68988e924)
+
+![WhatsApp Image 2023-06-28 at 11 41 38 PM](https://github.com/AinaZ4wani/CPT113-Hackathon-2_Game/assets/119420625/2a0d477d-7553-4856-b45a-b0f4c57ba6d7)
+
+![WhatsApp Image 2023-06-28 at 11 42 02 PM](https://github.com/AinaZ4wani/CPT113-Hackathon-2_Game/assets/119420625/079634e7-a6f3-432f-99e3-9e424d286d8f)
+
+![WhatsApp Image 2023-06-28 at 11 42 17 PM](https://github.com/AinaZ4wani/CPT113-Hackathon-2_Game/assets/119420625/354d0d33-8754-489d-969f-c9fe1759d9b0)
 
 
 ## Game Demo Video
