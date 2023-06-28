@@ -40,12 +40,14 @@ If you are able to come up with more words and the longer they are, then YOU are
 ## Usage of Linked Lists/Stacks/Queues
 In 'Chain It Long', Queue is being used as our core concept.
 
-`DynamicQueue` has several member functions, which are:
+`DynamicQueue` has several protected member functions, which are:
 
-1. enqueue() --> store the words input by the players in the queue.
-2. dequeue() --> dequeue and retrieve all the words in the queue.
-3. isEmpty() --> function to check whether the queue is empty or not.
-4. clear() --> clears all the elements in the queue.
+1. `enqueue()` --> store the words input by the players in the queue.
+2. `dequeue()` --> dequeue and retrieve all the words in the queue.
+3. `isEmpty()` --> function to check whether the queue is empty or not.
+4. `clear()` --> clears all the elements in the queue.
+5. `DynamicQueue()` --> Constructor to create an empty queue.
+6. `~DynamicQueue()` --> Destructor to destroy the queue after operations.
 
 ## Game Constraints
 1. No English words dictionary for validation --> unable to verify if the word input by the player is valid.
