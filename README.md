@@ -33,7 +33,9 @@ If you are able to come up with more words and the longer they are, then YOU are
 ## Object-Oriented Concepts
 1. Classes --> The blueprint or template for game objects is defined by classes. In this instance, our programme contains the class called `DynamicQueue` that stores the words keyed in by the players.
 
-2. Objects --> Classes have instances that are objects. The objects of our class iQueue1, iQueue2, and iQueue3 to represent player 1, player 2, and player 3 respectively. 
+2. Structure --> To create new nodes for the Queue, namely QueueNode
+
+3. Objects --> Classes have instances that are objects. The objects of our class iQueue1, iQueue2, and iQueue3 to represent player 1, player 2, and player 3 respectively. 
 
 ## Usage of Linked Lists/Stacks/Queues
 In 'Chain It Long', Queue is being used as our core concept.
