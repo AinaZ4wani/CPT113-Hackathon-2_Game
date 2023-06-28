@@ -1,15 +1,20 @@
 # CPT113-Hackathon-2_Game
+**GROUP 27:**
+1. AINA' ZAWANI BINTI ZAIDAN (163719)
+2. KHAIRIN AIMI BINTI MOHD ASHRI (164719)
+
 # Chain It Long!
 ## Game Description
 Chain It Long! is a 3 player game where it starts off with one player that needs to come up with a word from a random letter (existing in the English dictionary). 
 
 Then, the next player will have to create another word from the last letter of the previous player.
 
-There will be 5 rounds in the game. At the end of the game, the amount of words that the player entered and the length of the words will be taken into account to determine the winner. 
+There will be 3 rounds in the game. At the end of the game, the amount of words that the player entered and the length of the words will be taken into account to determine the winner. 
 
 If you are able to come up with more words and the longer they are, then YOU are the WINNER!! So, put on your thinking caps, turn your brain gears on, and create words!
 
 ## Game Features
+
 
 ## Game Rules
 1. The three players key in their name.
@@ -17,7 +22,7 @@ If you are able to come up with more words and the longer they are, then YOU are
 3. Player 1 will have to create a word from the given letter.
 4. Now, it's Player 2's turn, he/she will have to create a word from the last letter of Player 1's word.
 5. Player 3 will then repeat step 4.
-6. Step 3-5 is repeated until 5 rounds are done.
+6. Step 3-5 is repeated until 3 rounds are done.
 7. The game will then calculate each playes' scores.
 8. The more words created by a player and the longer they are, the higher a player's score.
 
@@ -33,5 +38,7 @@ In 'Chain It Long', there is the use of queue.
    _ this queue allows 
 
 ## Game Constraints
+1. No English words dictionary for validation --> unable to verify if the word input by the player is valid.
+2. 
 ## Game Screenshots
 ## Game Demo Video
