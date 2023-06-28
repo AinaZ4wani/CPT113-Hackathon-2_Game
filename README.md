@@ -1,9 +1,8 @@
-# CPT113-Hackathon-2_Game
+# Chain It Long!
 **GROUP 27:**
 1. AINA' ZAWANI BINTI ZAIDAN (163719)
 2. KHAIRIN AIMI BINTI MOHD ASHRI (164719)
 
-# Chain It Long!
 ## Game Description
 Chain It Long! is a 3 player game where it starts off with one player that needs to come up with a word from a random letter (existing in the English dictionary). 
 
