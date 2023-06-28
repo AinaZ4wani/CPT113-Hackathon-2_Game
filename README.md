@@ -4,7 +4,7 @@
 2. KHAIRIN AIMI BINTI MOHD ASHRI (164719)
 
 ## Game Description
-Chain It Long! is a 3 player game where it starts off with one player that needs to come up with a word from a random letter (existing in the English dictionary). 
+**_'Chain It Long!'_** is a 3-player game where it starts off with one player that needs to come up with a word, existing in the English dictionary, from a randomly assigned letter in the game. 
 
 Then, the next player will have to create another word from the last letter of the previous player.
 
@@ -17,6 +17,7 @@ If you are able to come up with more words and the longer they are, then YOU are
 1. Simple rules to follow.
 2. No time limit.
 3. A multiplayer game.
+4. Each players get to see other's list of words, so they can prepare beforehand to win the game.
 
 ## Game Rules
 
@@ -35,10 +36,10 @@ If you are able to come up with more words and the longer they are, then YOU are
 2. Objects --> Classes have instances that are objects. The objects of our class iQueue1, iQueue2, and iQueue3 to represent player 1, player 2, and player 3 respectively. 
 
 ## Usage of Linked Lists/Stacks/Queues
-In 'Chain It Long', there is the use of queue.
+In 'Chain It Long', Queue is being used as our core concept.
 
 `DynamicQueue` 
-1. enqueue() --> store the words input by the players.
+1. enqueue() --> store the words input by the players in the queue.
 2. dequeue() --> dequeue and retrieve all the words in the queue.
 3. isEmpty() --> function to check whether the queue is empty or not.
 4. clear() --> clears all the elements in the queue.
