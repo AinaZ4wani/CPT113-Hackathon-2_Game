@@ -54,5 +54,6 @@ In 'Chain It Long', Queue is being used as our core concept.
    
 ## Game Screenshots
 
+
 ## Game Demo Video
-Link to game demo video ().
+Link to game demo video https://youtu.be/NUN5iKnuE9.
