@@ -27,7 +27,7 @@ If you are able to come up with more words and the longer they are, then YOU are
 4. Now, it's Player 2's turn, he/she will have to create a word from the last letter of Player 1's word.
 5. Player 3 will then repeat step 4.
 6. Step 3-5 is repeated until 3 rounds are done.
-7. The game will then calculate each playes' scores.
+7. The game will then calculate each players' scores.
 8. The more words created by a player and the longer they are, the higher a player's score.
 
 ## Object-Oriented Concepts
