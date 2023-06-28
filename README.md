@@ -21,9 +21,9 @@ If you are able to come up with more words and the longer they are, then YOU are
 8. The more words created by a player and the longer they are, the higher a player's score.
 
 ## Object-Oriented Concepts
-1. Classes --> The blueprint or template for game objects is defined by classes. In this instance, our programme contains the class called 'DynamicQueue' that provide pertinent information and behaviour.
+1. Classes --> The blueprint or template for game objects is defined by classes. In this instance, our programme contains the class called `DynamicQueue` that stores the words keyed in by the players.
 
-2. Objects --> Classes have instances that are objects. To represent specific game participants, for instance, you might make objects of the Player class. There would be individual states and habits  for every object.
+2. Objects --> Classes have instances that are objects. To represent specific game participants, for instance, you might make objects of the `DynamicQueue` class. There would be individual states and habits  for every object.
 
 ## Usage of Linked Lists/Stacks/Queues
 In 'Chain It Long', there is the use of queue.
